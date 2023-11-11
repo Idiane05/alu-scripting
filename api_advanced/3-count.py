@@ -1,6 +1,4 @@
-#!/usr/bin/python3
-
-"""search post function"""
+rch post function"""
 
 import json
 import operator
